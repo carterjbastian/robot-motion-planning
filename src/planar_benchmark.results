@@ -1,0 +1,150 @@
+INFO: Growing 100 nodes takes 2.117000 seconds. 47.236656 nodes per second.
+Closest Vertex: Vector: [-0.49999999999999756, -4.0, 0.0]
+Error: 9.178780 Sample rate: NaN Length: 3.500000 Collision Detection: 2196
+INFO: Growing 200 nodes takes 0.164000 seconds. 1219.512195 nodes per second.
+Closest Vertex: Vector: [1.9000000000000032, -4.0, 0.0]
+Error: 8.271034 Sample rate: NaN Length: 5.900000 Collision Detection: 4760
+INFO: Growing 300 nodes takes 0.193000 seconds. 1554.404145 nodes per second.
+Closest Vertex: Vector: [3.6000000000000045, -4.0, 0.0]
+Error: 8.009994 Sample rate: NaN Length: 7.600000 Collision Detection: 7095
+INFO: Growing 400 nodes takes 0.262000 seconds. 1526.717557 nodes per second.
+Closest Vertex: Vector: [1.4073695929284513, -3.3689099376007774, 0.5999999999999999]
+Error: 7.811694 Sample rate: NaN Length: 6.200000 Collision Detection: 9577
+INFO: Growing 500 nodes takes 0.320000 seconds. 1562.500000 nodes per second.
+Closest Vertex: Vector: [1.9408573304574874, -3.3767467998145384, 0.4999999999999999]
+Error: 7.658751 Sample rate: NaN Length: 6.600000 Collision Detection: 12533
+INFO: Growing 600 nodes takes 0.359000 seconds. 1671.309192 nodes per second.
+Closest Vertex: Vector: [4.197273924988898, -3.3203035246789194, 0.29999999999999993]
+Error: 7.322961 Sample rate: NaN Length: 8.600000 Collision Detection: 14709
+INFO: Growing 700 nodes takes 0.413000 seconds. 1694.915254 nodes per second.
+Closest Vertex: Vector: [4.574942169551702, -3.1725434213482497, 0.29999999999999993]
+Error: 7.195550 Sample rate: NaN Length: 9.000000 Collision Detection: 18451
+INFO: Growing 800 nodes takes 0.347000 seconds. 2305.475504 nodes per second.
+Closest Vertex: Vector: [2.099741942187547, -3.309922178686322, 0.29999999999999993]
+Error: 7.552876 Sample rate: NaN Length: 6.500000 Collision Detection: 22630
+INFO: Growing 900 nodes takes 0.324000 seconds. 2777.777778 nodes per second.
+Closest Vertex: Vector: [4.547673518915036, -3.47347639826816, 0.1999999999999999]
+Error: 7.493517 Sample rate: NaN Length: 8.800000 Collision Detection: 28953
+INFO: Growing 1000 nodes takes 0.368000 seconds. 2717.391304 nodes per second.
+Closest Vertex: Vector: [4.59482720899537, -2.6184267048031358, 0.4999999999999994]
+Error: 6.645103 Sample rate: NaN Length: 9.300000 Collision Detection: 29225
+INFO: Growing 1100 nodes takes 0.356000 seconds. 3089.887640 nodes per second.
+Closest Vertex: Vector: [2.0493988430925474, -3.374772645351539, 5.7831853071795845]
+Error: 7.628376 Sample rate: NaN Length: 9.800000 Collision Detection: 33954
+INFO: Growing 1200 nodes takes 0.449000 seconds. 2672.605791 nodes per second.
+Closest Vertex: Vector: [2.2328449219815876, -3.3172536645470942, 0.3999999999999999]
+Error: 7.527618 Sample rate: NaN Length: 7.000000 Collision Detection: 39618
+INFO: Growing 1300 nodes takes 0.476000 seconds. 2731.092437 nodes per second.
+Closest Vertex: Vector: [4.561543116289383, -3.083887359349848, 0.29999999999999993]
+Error: 7.106109 Sample rate: NaN Length: 9.000000 Collision Detection: 41388
+INFO: Growing 1400 nodes takes 0.489000 seconds. 2862.985685 nodes per second.
+Closest Vertex: Vector: [2.6795371604153924, -3.335303633986897, 0.3999999999999999]
+Error: 7.453207 Sample rate: NaN Length: 7.400000 Collision Detection: 42509
+INFO: Growing 1500 nodes takes 0.562000 seconds. 2669.039146 nodes per second.
+Closest Vertex: Vector: [3.4360480512166025, -3.1391726909205744, 0.7999999999999999]
+Error: 7.161412 Sample rate: NaN Length: 8.600000 Collision Detection: 47612
+INFO: Growing 1600 nodes takes 0.586000 seconds. 2730.375427 nodes per second.
+Closest Vertex: Vector: [4.557847065996447, -3.322881782565136, 0.4999999999999997]
+Error: 7.344099 Sample rate: NaN Length: 9.200000 Collision Detection: 49733
+INFO: Growing 1700 nodes takes 0.637000 seconds. 2668.759812 nodes per second.
+Closest Vertex: Vector: [4.746608812967125, -2.613603450954656, 1.4]
+Error: 6.655612 Sample rate: NaN Length: 10.800000 Collision Detection: 59132
+INFO: Growing 1800 nodes takes 0.682000 seconds. 2639.296188 nodes per second.
+Closest Vertex: Vector: [4.581151259303514, -2.7736854216578672, 0.4999999999999994]
+Error: 6.798570 Sample rate: NaN Length: 9.300000 Collision Detection: 58913
+INFO: Growing 1900 nodes takes 0.738000 seconds. 2574.525745 nodes per second.
+Closest Vertex: Vector: [3.1972750203797182, -3.3369943912742355, 5.183185307179581]
+Error: 7.380776 Sample rate: NaN Length: 9.800000 Collision Detection: 60079
+INFO: Growing 2000 nodes takes 0.885000 seconds. 2259.887006 nodes per second.
+Closest Vertex: Vector: [2.5232538288523263, -3.304557591967429, 6.083185307179585]
+Error: 7.452338 Sample rate: NaN Length: 7.200000 Collision Detection: 66521
+INFO: Growing 2100 nodes takes 1.018000 seconds. 2062.868369 nodes per second.
+Closest Vertex: Vector: [4.774452487402524, -1.8503873323854858, 1.4999999999999998]
+Error: 5.901424 Sample rate: NaN Length: 11.700000 Collision Detection: 70744
+INFO: Growing 2200 nodes takes 1.006000 seconds. 2186.878728 nodes per second.
+Closest Vertex: Vector: [4.6957101637540815, -2.8043067355038263, 1.1999999999999997]
+Error: 6.839781 Sample rate: NaN Length: 10.500000 Collision Detection: 74351
+INFO: Growing 2300 nodes takes 1.037000 seconds. 2217.936355 nodes per second.
+Closest Vertex: Vector: [4.611609587078691, -3.574891148714918, 0.9000000000000001]
+Error: 7.599542 Sample rate: NaN Length: 10.100000 Collision Detection: 86653
+INFO: Growing 2400 nodes takes 1.417000 seconds. 1693.719125 nodes per second.
+Closest Vertex: Vector: [4.478042169948157, 3.2349178693558396, 1.5]
+Error: 1.500000 Sample rate: NaN Length: 16.900000 Collision Detection: 71887
+INFO: Growing 2500 nodes takes 1.232000 seconds. 2029.220779 nodes per second.
+Closest Vertex: Vector: [4.649314318672291, -2.9433221879222486, 0.9999999999999999]
+Error: 6.973617 Sample rate: NaN Length: 10.200000 Collision Detection: 88305
+INFO: Growing 2600 nodes takes 1.186000 seconds. 2192.242833 nodes per second.
+Closest Vertex: Vector: [4.357412944016233, -2.636851668531613, 1.4999999999999987]
+Error: 6.646469 Sample rate: NaN Length: 10.300000 Collision Detection: 87997
+INFO: Growing 2700 nodes takes 1.272000 seconds. 2122.641509 nodes per second.
+Closest Vertex: Vector: [4.645672930465318, 3.7614724005491507, 1.4000000000000004]
+Error: 1.400000 Sample rate: NaN Length: 18.900000 Collision Detection: 81985
+INFO: Growing 2800 nodes takes 1.403000 seconds. 1995.723450 nodes per second.
+Closest Vertex: Vector: [4.719013783217621, 0.8314105856150031, 1.5999999999999999]
+Error: 3.249144 Sample rate: NaN Length: 15.000000 Collision Detection: 87024
+INFO: Growing 2900 nodes takes 1.427000 seconds. 2032.235459 nodes per second.
+Closest Vertex: Vector: [4.7298751557793475, 2.7876347824775682, 1.3999999999999997]
+Error: 1.415114 Sample rate: NaN Length: 16.300000 Collision Detection: 99451
+INFO: Growing 3000 nodes takes 1.484000 seconds. 2021.563342 nodes per second.
+Closest Vertex: Vector: [4.740825451817072, 0.5914669252633042, 1.5999999999999999]
+Error: 3.488111 Sample rate: NaN Length: 13.900000 Collision Detection: 99600
+INFO: Growing 3100 nodes takes 1.609000 seconds. 1926.662523 nodes per second.
+Closest Vertex: Vector: [4.666948964996577, -3.2316441052906923, 1.0999999999999999]
+Error: 7.262334 Sample rate: NaN Length: 10.000000 Collision Detection: 112216
+INFO: Growing 3200 nodes takes 1.578000 seconds. 2027.883397 nodes per second.
+Closest Vertex: Vector: [4.662060961608372, -0.5007854962019693, 1.0999999999999994]
+Error: 4.549219 Sample rate: NaN Length: 12.100000 Collision Detection: 107112
+INFO: Growing 3300 nodes takes 1.502000 seconds. 2197.070573 nodes per second.
+Closest Vertex: Vector: [2.4464363145036923, 2.612577453476303, 4.983185307179578]
+Error: 2.082907 Sample rate: NaN Length: 16.900000 Collision Detection: 107001
+INFO: Growing 3400 nodes takes 1.744000 seconds. 1949.541284 nodes per second.
+Closest Vertex: Vector: [4.4859489926054215, 4.381291378430865, 1.1999999999999997]
+Error: 1.200000 Sample rate: NaN Length: 18.300000 Collision Detection: 103643
+INFO: Growing 3500 nodes takes 1.916000 seconds. 1826.722338 nodes per second.
+Closest Vertex: Vector: [1.9414513803791111, 2.650511472374052, 0.5999999999999998]
+Error: 2.461451 Sample rate: NaN Length: 12.000000 Collision Detection: 100725
+INFO: Growing 3600 nodes takes 1.933000 seconds. 1862.390067 nodes per second.
+Closest Vertex: Vector: [4.682859842876075, 3.1363596823112014, 1.2999999999999996]
+Error: 1.300000 Sample rate: NaN Length: 16.800000 Collision Detection: 116005
+INFO: Growing 3700 nodes takes 1.929000 seconds. 1918.092276 nodes per second.
+Closest Vertex: Vector: [2.5325120173682634, 0.5991979872693135, 3.0000000000000013]
+Error: 3.703914 Sample rate: NaN Length: 15.200000 Collision Detection: 108986
+INFO: Growing 3800 nodes takes 2.243000 seconds. 1694.159608 nodes per second.
+Closest Vertex: Vector: [4.694526730331764, -1.344715276738529, 1.5999999999999999]
+Error: 5.389652 Sample rate: NaN Length: 12.100000 Collision Detection: 117612
+INFO: Growing 3900 nodes takes 2.442000 seconds. 1597.051597 nodes per second.
+Closest Vertex: Vector: [4.426978027591013, 3.5783817831892173, 0.9999999999999997]
+Error: 1.000000 Sample rate: NaN Length: 16.300000 Collision Detection: 118348
+INFO: Growing 4000 nodes takes 2.554000 seconds. 1566.170713 nodes per second.
+Closest Vertex: Vector: [4.5993506476589365, 3.6859268324567664, 0.6999999999999987]
+Error: 0.700000 Sample rate: NaN Length: 18.300000 Collision Detection: 127909
+INFO: Growing 4100 nodes takes 2.699000 seconds. 1519.081141 nodes per second.
+Closest Vertex: Vector: [4.668763834271669, -2.436221764491871, 1.0999999999999999]
+Error: 6.470873 Sample rate: NaN Length: 10.600000 Collision Detection: 147566
+INFO: Growing 4200 nodes takes 2.740000 seconds. 1532.846715 nodes per second.
+Closest Vertex: Vector: [4.646008284781469, 2.8379958622355606, 1.4999999999999998]
+Error: 1.500000 Sample rate: NaN Length: 16.500000 Collision Detection: 123505
+INFO: Growing 4300 nodes takes 2.723000 seconds. 1579.140654 nodes per second.
+Closest Vertex: Vector: [3.8422150429474393, 4.340961803766094, 0.3999999999999997]
+Error: 0.400000 Sample rate: NaN Length: 19.600000 Collision Detection: 126725
+INFO: Growing 4400 nodes takes 3.237000 seconds. 1359.283287 nodes per second.
+Closest Vertex: Vector: [4.0717904021081175, 3.4799222463504482, 6.283185307179586]
+Error: 0.525009 Sample rate: NaN Length: 19.300000 Collision Detection: 124843
+INFO: Growing 4500 nodes takes 2.866000 seconds. 1570.132589 nodes per second.
+Closest Vertex: Vector: [-2.0829705758381145, 0.7727086314773259, 5.283185307179577]
+Error: 6.886069 Sample rate: NaN Length: 11.700000 Collision Detection: 146195
+INFO: Growing 4600 nodes takes 2.657000 seconds. 1731.275875 nodes per second.
+Closest Vertex: Vector: [4.474636426050684, 4.230849325190342, 0.9999999999999997]
+Error: 1.000000 Sample rate: NaN Length: 18.100000 Collision Detection: 151500
+INFO: Growing 4700 nodes takes 3.100000 seconds. 1516.129032 nodes per second.
+Closest Vertex: Vector: [4.3125075748405415, 3.578514182590522, 0.4999999999999996]
+Error: 0.524701 Sample rate: NaN Length: 19.000000 Collision Detection: 131031
+INFO: Growing 4800 nodes takes 2.993000 seconds. 1603.742065 nodes per second.
+Closest Vertex: Vector: [4.425980708185449, 4.093332189415878, 0.39999999999999897]
+Error: 0.436085 Sample rate: NaN Length: 18.900000 Collision Detection: 142748
+INFO: Growing 4900 nodes takes 2.993000 seconds. 1637.153358 nodes per second.
+Closest Vertex: Vector: [2.7130795199246722, 2.628644448456018, 4.483185307179576]
+Error: 1.880633 Sample rate: NaN Length: 18.000000 Collision Detection: 147069
+INFO: Growing 5000 nodes takes 3.215000 seconds. 1555.209953 nodes per second.
+Closest Vertex: Vector: [4.216951408697493, 4.643684863122251, 1.4000000000000004]
+Error: 1.400000 Sample rate: NaN Length: 18.600000 Collision Detection: 147457

@@ -1,0 +1,92 @@
+INFO: Growing 0 nodes takes 0.123000 seconds. 0.000000 nodes per second.
+INFO: Growing 100 nodes takes 7.338000 seconds. 13.627691 nodes per second.
+INFO: Growing 100 nodes takes 4.947000 seconds. 20.214271 nodes per second.
+Error: 0.000000 Sample rate: 0.682594 Length: 9.445744 Collision Detection: 197858
+INFO: Growing 100 nodes takes 4.675000 seconds. 21.390374 nodes per second.
+Error: 0.000000 Sample rate: 0.683371 Length: 7.523085 Collision Detection: 210706
+INFO: Growing 100 nodes takes 4.532000 seconds. 22.065313 nodes per second.
+INFO: Growing 100 nodes takes 4.663000 seconds. 21.445421 nodes per second.
+Error: 0.000000 Sample rate: 0.679348 Length: 8.132417 Collision Detection: 221290
+INFO: Growing 100 nodes takes 4.873000 seconds. 20.521239 nodes per second.
+INFO: Growing 100 nodes takes 4.839000 seconds. 20.665427 nodes per second.
+Error: 0.000000 Sample rate: 0.687623 Length: 7.493250 Collision Detection: 226146
+INFO: Growing 100 nodes takes 4.720000 seconds. 21.186441 nodes per second.
+Error: 0.000000 Sample rate: 0.687876 Length: 8.653511 Collision Detection: 213006
+INFO: Growing 100 nodes takes 4.281000 seconds. 23.359028 nodes per second.
+Error: 0.000000 Sample rate: 0.692308 Length: 9.115294 Collision Detection: 199973
+INFO: Growing 100 nodes takes 4.970000 seconds. 20.120724 nodes per second.
+INFO: Growing 100 nodes takes 4.431000 seconds. 22.568269 nodes per second.
+Error: 0.000000 Sample rate: 0.701531 Length: 6.569300 Collision Detection: 208235
+INFO: Growing 100 nodes takes 4.745000 seconds. 21.074816 nodes per second.
+Error: 0.000000 Sample rate: 0.700117 Length: 6.818184 Collision Detection: 217970
+INFO: Growing 100 nodes takes 4.611000 seconds. 21.687270 nodes per second.
+Error: 0.000000 Sample rate: 0.704225 Length: 8.608888 Collision Detection: 204780
+INFO: Growing 100 nodes takes 4.906000 seconds. 20.383204 nodes per second.
+Error: 0.000000 Sample rate: 0.703518 Length: 7.810633 Collision Detection: 222027
+INFO: Growing 100 nodes takes 5.676000 seconds. 17.618041 nodes per second.
+Error: 0.000000 Sample rate: 0.708550 Length: 6.283185 Collision Detection: 239510
+INFO: Growing 100 nodes takes 5.751000 seconds. 17.388280 nodes per second.
+Error: 0.000000 Sample rate: 0.702062 Length: 7.604108 Collision Detection: 214343
+INFO: Growing 100 nodes takes 5.778000 seconds. 17.307027 nodes per second.
+Error: 0.000000 Sample rate: 0.702479 Length: 6.819794 Collision Detection: 226473
+INFO: Growing 100 nodes takes 5.302000 seconds. 18.860807 nodes per second.
+Error: 0.000000 Sample rate: 0.702302 Length: 7.415493 Collision Detection: 220800
+INFO: Growing 100 nodes takes 4.074000 seconds. 24.545901 nodes per second.
+Error: 0.000000 Sample rate: 0.702663 Length: 7.214565 Collision Detection: 196000
+INFO: Growing 100 nodes takes 4.382000 seconds. 22.820630 nodes per second.
+Error: 0.000000 Sample rate: 0.705716 Length: 8.961628 Collision Detection: 211019
+INFO: Growing 100 nodes takes 4.305000 seconds. 23.228804 nodes per second.
+Error: 0.000000 Sample rate: 0.703518 Length: 8.635041 Collision Detection: 198311
+INFO: Growing 100 nodes takes 4.299000 seconds. 23.261224 nodes per second.
+INFO: Growing 100 nodes takes 4.984000 seconds. 20.064205 nodes per second.
+Error: 0.000000 Sample rate: 0.701220 Length: 7.851831 Collision Detection: 229915
+INFO: Growing 100 nodes takes 4.282000 seconds. 23.353573 nodes per second.
+Error: 0.000000 Sample rate: 0.696662 Length: 8.190286 Collision Detection: 195459
+INFO: Growing 100 nodes takes 4.394000 seconds. 22.758307 nodes per second.
+Error: 0.000000 Sample rate: 0.698324 Length: 7.632747 Collision Detection: 206695
+INFO: Growing 100 nodes takes 4.752000 seconds. 21.043771 nodes per second.
+Error: 0.000000 Sample rate: 0.696677 Length: 9.581470 Collision Detection: 229168
+INFO: Growing 100 nodes takes 4.686000 seconds. 21.340162 nodes per second.
+Error: 0.000000 Sample rate: 0.696056 Length: 7.434955 Collision Detection: 199467
+INFO: Growing 100 nodes takes 5.049000 seconds. 19.805902 nodes per second.
+Error: 0.000000 Sample rate: 0.695307 Length: 9.029044 Collision Detection: 220213
+INFO: Growing 100 nodes takes 6.239000 seconds. 16.028210 nodes per second.
+Error: 0.000000 Sample rate: 0.696613 Length: 7.849617 Collision Detection: 262438
+INFO: Growing 100 nodes takes 5.013000 seconds. 19.948135 nodes per second.
+Error: 0.000000 Sample rate: 0.696864 Length: 7.796928 Collision Detection: 237848
+INFO: Growing 100 nodes takes 4.092000 seconds. 24.437928 nodes per second.
+Error: 0.000000 Sample rate: 0.699458 Length: 9.641076 Collision Detection: 186599
+INFO: Growing 100 nodes takes 5.023000 seconds. 19.908421 nodes per second.
+Error: 0.000000 Sample rate: 0.701139 Length: 7.649371 Collision Detection: 231744
+INFO: Growing 100 nodes takes 4.771000 seconds. 20.959966 nodes per second.
+INFO: Growing 100 nodes takes 5.325000 seconds. 18.779343 nodes per second.
+Error: 0.000000 Sample rate: 0.702044 Length: 8.462626 Collision Detection: 225175
+INFO: Growing 100 nodes takes 4.901000 seconds. 20.403999 nodes per second.
+Error: 0.000000 Sample rate: 0.703659 Length: 8.055476 Collision Detection: 211261
+INFO: Growing 100 nodes takes 4.919000 seconds. 20.329335 nodes per second.
+Error: 0.000000 Sample rate: 0.703675 Length: 9.619365 Collision Detection: 216343
+INFO: Growing 100 nodes takes 4.799000 seconds. 20.837675 nodes per second.
+Error: 0.000000 Sample rate: 0.704091 Length: 7.227709 Collision Detection: 211610
+INFO: Growing 100 nodes takes 4.921000 seconds. 20.321073 nodes per second.
+Error: 0.000000 Sample rate: 0.703704 Length: 6.998262 Collision Detection: 221397
+INFO: Growing 100 nodes takes 5.094000 seconds. 19.630938 nodes per second.
+INFO: Growing 100 nodes takes 4.561000 seconds. 21.925016 nodes per second.
+Error: 0.000000 Sample rate: 0.703235 Length: 7.612245 Collision Detection: 207627
+INFO: Growing 100 nodes takes 4.406000 seconds. 22.696323 nodes per second.
+Error: 0.000000 Sample rate: 0.701334 Length: 8.323422 Collision Detection: 210996
+INFO: Growing 100 nodes takes 4.394000 seconds. 22.758307 nodes per second.
+INFO: Growing 100 nodes takes 5.619000 seconds. 17.796761 nodes per second.
+Error: 0.000000 Sample rate: 0.701697 Length: 7.413343 Collision Detection: 251801
+INFO: Growing 100 nodes takes 5.252000 seconds. 19.040366 nodes per second.
+Error: 0.000000 Sample rate: 0.701419 Length: 10.558956 Collision Detection: 226974
+INFO: Growing 100 nodes takes 4.664000 seconds. 21.440823 nodes per second.
+Error: 0.000000 Sample rate: 0.701044 Length: 8.447774 Collision Detection: 199851
+INFO: Growing 100 nodes takes 4.978000 seconds. 20.088389 nodes per second.
+INFO: Growing 100 nodes takes 4.624000 seconds. 21.626298 nodes per second.
+Error: 0.000000 Sample rate: 0.699405 Length: 8.520736 Collision Detection: 195054
+INFO: Growing 100 nodes takes 5.126000 seconds. 19.508389 nodes per second.
+Error: 0.000000 Sample rate: 0.699505 Length: 8.806528 Collision Detection: 217669
+INFO: Growing 100 nodes takes 4.747000 seconds. 21.065936 nodes per second.
+Error: 0.000000 Sample rate: 0.698603 Length: 9.372400 Collision Detection: 211317
+INFO: Growing 100 nodes takes 4.542000 seconds. 22.016733 nodes per second.
+Error: 0.000000 Sample rate: 0.699692 Length: 9.093346 Collision Detection: 201244

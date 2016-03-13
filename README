@@ -1,0 +1,28 @@
+CS76 Motion Planning Assignment
+
+Author:   Carter J. Bastian
+          February, 2016. 16W.
+
+CAUTION: viewing or using any of the code or report in the directory is a violation
+of the Dartmouth Honor Code if you are in or will be in CS76 (Artificial Intelligence)
+
+To run the simulation, all you need to do is run
+  make
+from the command line.
+
+
+To switch to the Hanover city map demo (takes about three minutes):
+- Change the defaultSize value in MotionPlanner.java to 20,000
+- Change the IsPlanarRobot value in MotionPlannerDriver.java to true
+- Change the RESOLUTION value in MotionPlanner.java to 0.01
+And run
+  make
+from the command line.
+
+
+To switch to the Extra Credit demo:
+- Change the defaultSize value in MotionPlanner.java to 100
+- Set the IsPlanarRobot value in MotionPlannerDriver.java to false
+And run
+  make extra
+from the command line.

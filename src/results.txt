@@ -1,0 +1,26 @@
+ROBOT ARM STANDARD:
+INFO: Growing 1000 nodes takes 42.072000 seconds. 23.768777 nodes per second.
+Path is found with error 0.000000
+
+ROBOT ARM STANDARD (LARGER RESOLUTION):
+INFO: Growing 1000 nodes takes 5.268000 seconds. 189.825361 nodes per second.
+Path is found with error 0.000000
+
+ROBOT ARM STANDARD (MODIFIED PRM):
+INFO: Growing 1000 nodes takes 8.430000 seconds. 118.623962 nodes per second.
+Path is found with error 0.000000
+
+PLANAR ROBOT STANDARD:
+INFO: Growing 20000 nodes takes 48.554000 seconds. 411.912510 nodes per second.
+Closest Vertex: Vector: [3.997714269133923, 3.9558616938072064, 0.1000000000000006]
+Path is found with error 0.100000
+
+PLANAR ROBOT HARD:
+INFO: Growing 100000 nodes takes 759.464000 seconds. 131.671811 nodes per second.
+Closest Vertex: Vector: [4.179382338394631, 3.96657206787533, 6.283185307179511]
+Path is found with error 0.182470
+
+PLANAR ROBOT HANOVER:
+INFO: Growing 100000 nodes takes 2001.308000 seconds. 49.967321 nodes per second.
+Closest Vertex: Vector: [-0.19263847892224711, -0.0709385806809226, 6.079851973846075]
+Path is found with error 0.205285
